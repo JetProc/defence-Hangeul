@@ -1,0 +1,5 @@
+﻿  main.c
+  util.c
+  코드를 생성하고 있습니다...
+E:\Visual Studio Code\C_Game_T2\util.c(544): warning C4716: 'selectCharacternumber': 값을 반환해야 합니다.
+  C_Game_T2.vcxproj -> E:\Visual Studio Code\C_Game_T2\Debug\C_Game_T2.exe
